@@ -1,0 +1,22 @@
+MODELO DE DATOS - PLATAFORMA DE INICIATIVAS COMUNITARIAS
+
+Entidad: Iniciativa (Causa)
+Campos principales:
+- id (Clave primaria - Autoincremental)
+- titulo (Texto corto - Nombre de la propuesta)
+- descripcion (Texto largo - Detalle de la necesidad o causa)
+- sector (Texto - Barrio o comuna afectada)
+- fecha_creacion (Fecha)
+
+Propósito:
+Almacenar de manera estructurada las propuestas, necesidades e iniciativas que los ciudadanos publican para visibilizar las problemáticas de su entorno en la plataforma.
+
+Entidad: Respaldo (Apoyo)
+Campos principales:
+- id (Clave primaria - Autoincremental)
+- iniciativa_id (Clave foránea - Relación con la entidad Iniciativa)
+- usuario_anonimo_id (Texto - Identificador único generado por el sistema)
+- fecha_respaldo (Fecha)
+
+Propósito:
+Registrar de forma segura los apoyos digitales que recibe cada iniciativa para medir el interés de la comunidad y priorizar las mesas de diálogo, garantizando que el ciudadano no sea expuesto públicamente.
