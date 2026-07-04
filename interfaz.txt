@@ -1,0 +1,14 @@
+DISEÑO DE INTERFAZ DE USUARIO (UI/UX SIMPLIFICADA)
+
+1. Formulario de Creación:
+La interfaz contará con un panel superior que contiene un formulario limpio para registrar una nueva iniciativa comunitaria. Este incluirá campos específicos para escribir un título directo,
+una descripción clara de la problemática y la selección del sector afectado, acompañado de un botón visible que dice "Publicar Iniciativa".
+
+2. Vista de Causas Disponibles:
+En la sección principal se desplegará una lista de tarjetas independientes para cada iniciativa activa. 
+Cada tarjeta mostrará el título de la causa, la descripción resumida, el sector y la fecha en que fue creada, presentados con un diseño legible y accesible para cualquier ciudadano.
+
+3. Sistema de Interacción y Contador:
+Dentro de cada tarjeta de iniciativa se integrará un botón de interacción con la etiqueta "Apoyar Causa".
+Al lado de este botón, un contador dinámico mostrará numéricamente el total de respaldos acumulados (por ejemplo: "45 apoyos"). 
+La interfaz se diseñará para ser completamente intuitiva, ágil y transparente, omitiendo cualquier dato personal que vulnere la privacidad de los participantes.
