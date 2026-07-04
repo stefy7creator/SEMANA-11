@@ -1,0 +1,4 @@
+La autenticación de usuarios a través del login es el proceso técnico que permite validar la identidad de un ciudadano o miembro del equipo antes de otorgarle acceso a la plataforma.
+Mantener rutas protegidas en el sistema es fundamental porque previene que usuarios no autorizados alteren registros, borren evidencias de control social o accedan a datos privados de la comunidad.
+En una aplicación de este tipo, la seguridad debe blindarse para que jamás se exponga públicamente información sensible como contraseñas en texto plano,
+números de documentos de identidad, números telefónicos, direcciones residenciales o tokens y llaves de API del servidor, mitigando así cualquier riesgo de filtración o represalia.
